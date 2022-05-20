@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "amazingMovies",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
