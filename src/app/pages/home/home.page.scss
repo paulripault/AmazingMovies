@@ -1,0 +1,20 @@
+.vcontainer {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.welcome-title {
+    font-weight: 700;
+}
+
+.welcome-desc {
+    color: white;
+    font-weight: 500;
+}
+
+ion-icon {
+    color: #fff;
+}
