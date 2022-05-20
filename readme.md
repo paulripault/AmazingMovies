@@ -2,9 +2,9 @@
 
 ## Documentation :
 
-API : https://www.themoviedb.org/documentation/api
-Ionic Angular : https://ionicframework.com/docs/angular/overview
-UI : https://ionicframework.com/docs/components
+- API : https://www.themoviedb.org/documentation/api
+- Ionic Angular : https://ionicframework.com/docs/angular/overview
+- UI : https://ionicframework.com/docs/components
 
 ## Start project
 
