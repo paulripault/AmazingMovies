@@ -16,3 +16,8 @@ npm install
 ionic serve
 ```
 
+## Install on android 
+
+```
+npx cap run android
+```
